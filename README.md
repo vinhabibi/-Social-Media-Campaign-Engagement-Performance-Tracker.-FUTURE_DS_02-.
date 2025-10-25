@@ -27,10 +27,6 @@ It provides actionable insights into engagement rates, advertising costs, impres
 
 ---
 
-## 🖼️ Dashboard Preview  
-![Dashboard Preview][this is the link to the dashboard (
-
-
 
 ## 🧩 Insights
 - **Instagram** leads in **impressions, clicks, and cost efficiency**.  
@@ -48,10 +44,6 @@ It provides actionable insights into engagement rates, advertising costs, impres
 
 ---
 
-## 🚀 How to Use
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/<vinhabibi>/<your-repo-name>.git
   Project structure
   📁 SocialMediaEngagementPerformanceTracker/
 ├── Dashboard.pbix
