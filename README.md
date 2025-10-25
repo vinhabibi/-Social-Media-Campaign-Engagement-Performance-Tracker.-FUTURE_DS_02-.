@@ -28,7 +28,7 @@ It provides actionable insights into engagement rates, advertising costs, impres
 ---
 
 ## 🖼️ Dashboard Preview  
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview][this is the link to the dashboard (
 
 
 
